@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @anizchaa
 - 👀 I’m interested in Front end.
-- 🌱 I’m currently learning HTML and CSS.
+- 🌱 I’m currently learning React
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me - Email : anizmrzn@live.com
 
